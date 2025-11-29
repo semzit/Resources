@@ -17,6 +17,8 @@ https://sqliteviewer.app
 
 https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
 
+https://blog.logrocket.com/express-typescript-node/
+
 ### CUDA 
 
 https://www.cs.emory.edu/~cheung/Courses/355/Syllabus/94-CUDA/SLIDES/
