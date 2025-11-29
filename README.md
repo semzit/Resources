@@ -23,6 +23,6 @@ https://blog.logrocket.com/express-typescript-node/
 
 https://www.cs.emory.edu/~cheung/Courses/355/Syllabus/94-CUDA/SLIDES/
 
-## GIT
+### GIT
 
 https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/
