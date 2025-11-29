@@ -1,22 +1,22 @@
 # Resources
 Resources I found helpful
 
-## Websocket
+### Websocket
 https://ably.com/topic/socketio-vs-websocket 
 
 https://blog.stackademic.com/getting-started-with-websockets-in-typescript-c48c5519f7d4
 
-## SQL
+### SQL
 https://koraytug.hashnode.dev/implementing-sqlite3-with-nodejs-and-typescript
 
 https://www.octans-solutions.fr/en/articles/sqlite-typescript
 
 https://sqliteviewer.app
 
-## Rest
+### Rest
 
 https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
 
-## CUDA 
+### CUDA 
 
 https://www.cs.emory.edu/~cheung/Courses/355/Syllabus/94-CUDA/SLIDES/
