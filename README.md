@@ -13,6 +13,8 @@ https://www.octans-solutions.fr/en/articles/sqlite-typescript
 
 https://sqliteviewer.app
 
+https://www.npmjs.com/package/sqlite
+
 ### Rest
 
 https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
